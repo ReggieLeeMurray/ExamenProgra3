@@ -30,8 +30,11 @@ void intercambiar(T* valor1,T* valor2)
 //Devuelve true si todos los elementos del vector dado son positivos, de lo contrario devuelve false.
 double sonPositivos(vector<int>elementos)
 {
-
-}
+    int p, n;
+    for (int i=0;i<e;i++)
+    {
+    if ()
+    }
 
 ///////////////////////////////////////////////////////////////////
 ///////////////////////////// PARTE 2 /////////////////////////////
